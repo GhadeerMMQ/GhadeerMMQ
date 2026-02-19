@@ -9,4 +9,4 @@
 - Tableau (charts, maps, and interactive dashboards, data storytelling and visualization)
 - Microsoft Excel (dashboards, formulas, functions, data analysis, etc...)
 
-  ##📫 How to reach me: ghadeermuqbil@gmail.com
+  ## 📫 How to reach me: ghadeermuqbil@gmail.com
