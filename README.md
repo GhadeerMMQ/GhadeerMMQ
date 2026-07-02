@@ -11,5 +11,5 @@ Physics graduate with strong analytical and problem-solving skills, experienced 
 - Microsoft Excel (dashboards, formulas, functions, data analysis, etc...)
 
 ##  ✏️ Right now I am studying for 
-CBDA & CDMP
+CDMP
 ## 📫 How to reach me: ghadeermuqbil@gmail.com
