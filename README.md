@@ -1,7 +1,7 @@
 # HELLO THERE! 
 
 ## 🔭 ABOUT ME 
-Developed skills in data analytics while working full-time in diverse roles, focusing on projects, continuous learning, and practical experience with SQL, Python, and data visualization tools. Now seeking to transition into a data-focused role to apply analytical thinking to real-world challenges.
+Inspired by the curiosity that drives space exploration, I developed a strong foundation in analytical thinking through physics and expanded my skills into data analytics. While working full-time in diverse roles, I continued building expertise in SQL, Python, and data visualization through hands-on projects and continuous learning. Now transitioning into a data-focused career, I aim to apply scientific reasoning and data-driven insights to solve real-world challenges.
 
 ##  🌱 PROFESSIONAL SKILLS 
 **SQL** : Designed and normalized relational database schemas, wrote complex queries (joins, subqueries, CTEs), and performed data migration and analysis on large datasets (e.g., global deforestation trends, social platform architecture).
