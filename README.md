@@ -10,7 +10,4 @@ Inspired by the curiosity that drives space exploration, I developed a strong fo
 
 **Power BI** : Built interactive dashboards and visualizations to communicate data-driven insights and support decision-making.
 
-
-##  ✏️ Right now I am studying for 
-CDMP
 ## 📫 How to reach me: ghadeermuqbil@gmail.com
